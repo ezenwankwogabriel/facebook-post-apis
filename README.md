@@ -41,3 +41,5 @@ start application using command `npm run start`
 cd into root folder, `cd facebook-api-posts`
 run test using command `npm test` to run all tests
 
+# Api Documentation
+https://documenter.getpostman.com/view/3082196/Tzm6mG1f
