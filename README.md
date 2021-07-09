@@ -33,11 +33,11 @@ First step to deploy project. You will need to:
   Copy the generated access_token and the page_id (Found at the bottom part of the the abouts us page);
 
 # Steps to start the app
-cd into root folder, `cd facebookPosts`
+cd into root folder, `cd facebook-api-posts`
 install packages using command `npm i`
 start application using command `npm run start`
 
 # Steps and commands to run the tests.
-cd into root folder, `cd facebookPosts`
+cd into root folder, `cd facebook-api-posts`
 run test using command `npm test` to run all tests
 
